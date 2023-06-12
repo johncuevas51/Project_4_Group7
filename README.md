@@ -26,3 +26,12 @@ Target:
 
 * Loan_Status: Loan granted or not (Y, N)
 
+Tuning Process:
+
+*Our Tuning process was completed using Grid Search CV
+
+
+Final Results:
+
+*Included in this repository are the files necessary to run our Python program "Run.py" that will generate an HTML which operates the " Load_Train.csv". This will launch an interactive selection dashboard to decide whether or not a loan will be "Approved" or "Not Approved" depending on the parameters chosen utilizing our optimized dataset for final results. 
+
